@@ -26,7 +26,7 @@ var rohit = new Developer
     Role        = "Software Developer",
     Company     = "Fortune Marketing Pvt Ltd, Noida",
     Experience  = "1.5+ Years",
-    Education   = "B.Tech (CSE) | Bansal Institute, Lucknow | CGPA: 7.8",
+    Education   = "B.Tech (CSE) | BIET, Lucknow | CGPA: 7.8",
     Location    = "Noida, Uttar Pradesh, India",
 
     CurrentlyWorking = new[] {
@@ -41,7 +41,7 @@ var rohit = new Developer
     },
     AskMeAbout = new[] {
         "ASP.NET Core", "C#", "SQL Server",
-        "JavaScript", "React", "Node.js", "REST APIs"
+        "JavaScript", "React", "JWT", "REST APIs"
     },
     ProblemSolving = "100+ problems on CodeChef & GeeksForGeeks",
     FunFact        = "I debug code faster with chai ☕"
@@ -66,10 +66,10 @@ var rohit = new Developer
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🔧 Backend & Other
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET CORE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=asp.netcore&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=sqlserver&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
